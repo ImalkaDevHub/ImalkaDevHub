@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
   <h2>Hi 👋 I'm Imalka Madushan</h2>
-  <p>🎓 Software Engineering Student &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 🚀 Freelancer</p>
+  <p>🎓 Software Engineering Student &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 🤖 Data & AI Enthusiast</p>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IimalkaMadushan&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="profile views"/>
