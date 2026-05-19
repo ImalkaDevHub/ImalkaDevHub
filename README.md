@@ -19,11 +19,13 @@
 🌱 Currently exploring:
 • Next.js & Server-Side Rendering  •  Mobile Development with Flutter  •  Scalable Backend Architectures
 ---
-📋 Professional Summary
+Professional Summary
+---
 I am a 3rd year Software Engineering student at SLIIT and a Full Stack Developer specializing in end-to-end web architecture and modern digital solutions, currently working at Caslo Pvt Ltd where I contribute to real-world software development projects.
 Beyond my corporate role, I provide freelance development services on Fiverr to a diverse global client base. I am passionate about building modern, scalable applications and actively contribute to my university community through volunteering with campus clubs and societies.
+<br/>
+Areas of Expertise
 ---
-🏆 Areas of Expertise
 Full Stack Development: Experienced in building web applications using React, Next.js, and Node.js.
 Mobile Development: Skilled in cross-platform mobile app development using Flutter.
 Backend & Scripting: Proficient in Python for backend development and automation.
