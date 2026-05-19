@@ -11,17 +11,18 @@
 </div>
 <br/>
 ---
-Professional Summary
-I am a 3rd year Software Engineering student at SLIIT and a Full Stack Developer specializing in end-to-end web architecture and modern digital solutions, currently working at Caslo Pvt Ltd where I contribute to real-world software development projects.
-Beyond my corporate role, I provide freelance development services on Fiverr to a diverse global client base. I am passionate about building modern, scalable applications and actively contribute to my university community through volunteering with campus clubs and societies.
-<br/>
----
-Areas of Expertise
-Full Stack Development: Experienced in building web applications using React, Next.js, and Node.js.
-Mobile Development: Skilled in cross-platform mobile app development using Flutter.
-Backend & Scripting: Proficient in Python for backend development and automation.
-Technical Leadership: Guiding the end-to-end development lifecycle, from system architecture to the deployment of scalable digital solutions.
-<br/>
+## Professional Summary
+
+I am a second year Software Engineering student at **SLIIT** and a Full Stack Developer specializing in end-to-end web architecture and modern digital solutions, currently working at **Caslo Pvt Ltd** where I contribute to real-world software development projects.
+
+Beyond my corporate role, I am the founder of **Kaldor**, a web development firm focused on high performance digital solutions. I also provide freelance development services on **Fiverr** to a diverse global client base. I am passionate about building modern, scalable applications and actively contribute to my university community through volunteering with campus clubs and societies.
+
+## Areas of Expertise
+
+- **Full Stack Development**: Experienced in building web applications using React, Next.js, and Node.js.
+- **Mobile Development**: Skilled in cross-platform mobile app development using Flutter.
+- **Backend & Scripting**: Proficient in Python for backend development and automation.
+- **Technical Leadership**: Guiding the end-to-end development lifecycle, from system architecture to the deployment of scalable digital solutions.
 ---
 ⚡ Tech Stack
 👨‍💻 Programming Languages
