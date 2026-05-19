@@ -7,7 +7,7 @@
   <h3>🎓 Software Engineering Student &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 🤖 Data & AI Enthusiast</h3>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IimalkaMadushan&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ImalkaDevHub&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="profile views"/>
 </div>
 <br/>
 <div align="center">
@@ -69,30 +69,31 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 </div>
 <br/>
 ---
-## GitHub Performance Metrics
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IimalkaMadushan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaDevHub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IimalkaMadushan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IimalkaMadushan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ImalkaDevHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaDevHub&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 <br/>
+
+---
 
 ---
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IimalkaMadushan&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImalkaDevHub&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 <br/>
-
 ---
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IimalkaMadushan/IimalkaMadushan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
-<br/>
 
 ---
 ## 🌐 Connect With Me
