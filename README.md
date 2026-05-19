@@ -83,9 +83,9 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 </div>
 <br/>
 
----
+<hr/>
 
----
+
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImalkaDevHub&theme=tokyo-night&hide_border=true" width="100%"/>
