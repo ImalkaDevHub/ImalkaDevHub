@@ -11,16 +11,6 @@
 </div>
 <br/>
 ---
-🧠 About Me
-🎓 3rd Year Software Engineering undergraduate at SLIIT
-💼 Currently working at Caslo Pvt Ltd — contributing to real-world software development
-💡 Passionate about building modern, scalable web & mobile applications
-🌐 Providing freelance development services on Fiverr to a global client base
-🤝 Actively volunteering in campus clubs and societies
-🌱 Currently exploring:
-    • Next.js & Server-Side Rendering  •  Mobile Development with Flutter  •  Scalable Backend Architectures
-<br/>
----
 Professional Summary
 I am a 3rd year Software Engineering student at SLIIT and a Full Stack Developer specializing in end-to-end web architecture and modern digital solutions, currently working at Caslo Pvt Ltd where I contribute to real-world software development projects.
 Beyond my corporate role, I provide freelance development services on Fiverr to a diverse global client base. I am passionate about building modern, scalable applications and actively contribute to my university community through volunteering with campus clubs and societies.
