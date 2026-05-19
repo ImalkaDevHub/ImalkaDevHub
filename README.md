@@ -11,7 +11,8 @@
 </div>
 <br/>
 ---
-## Professional Summary
+Professional Summary
+
 
 I am a second year Software Engineering student at **SLIIT** and a Full Stack Developer specializing in end-to-end web architecture and modern digital solutions, currently working at **Caslo Pvt Ltd** where I contribute to real-world software development projects.
 
