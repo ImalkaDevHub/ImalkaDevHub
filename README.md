@@ -3,37 +3,46 @@
 </div>
 <br/>
 <div align="center">
-  <h2>Hi 👋 I'm Imalka Madushan</h2>
-  <p>🎓 Software Engineering Student &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 🤖 Data & AI Enthusiast</p>
+  <h1>Hi 👋 I'm Imalka Madushan</h1>
+  <h3>🎓 Software Engineering Student &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 🤖 Data & AI Enthusiast</h3>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IimalkaMadushan&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="profile views"/>
 </div>
 <br/>
----
-Professional Summary
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+%F0%9F%92%BB;Full+Stack+Developer+%26+Founder+of+Kaldor+%F0%9F%9A%80;Always+Learning+New+Technologies+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
+<br/>
 
+---
+## 🧑‍💼 Professional Summary
 
 I am a second year Software Engineering student at **SLIIT** and a Full Stack Developer specializing in end-to-end web architecture and modern digital solutions, currently working at **Caslo Pvt Ltd** where I contribute to real-world software development projects.
 
 Beyond my corporate role, I am the founder of **Kaldor**, a web development firm focused on high performance digital solutions. I also provide freelance development services on **Fiverr** to a diverse global client base. I am passionate about building modern, scalable applications and actively contribute to my university community through volunteering with campus clubs and societies.
 
-## Areas of Expertise
+## 🎯 Areas of Expertise
 
 - **Full Stack Development**: Experienced in building web applications using React, Next.js, and Node.js.
 - **Mobile Development**: Skilled in cross-platform mobile app development using Flutter.
 - **Backend & Scripting**: Proficient in Python for backend development and automation.
 - **Technical Leadership**: Guiding the end-to-end development lifecycle, from system architecture to the deployment of scalable digital solutions.
+
 ---
-⚡ Tech Stack
-👨‍💻 Programming Languages
+## ⚡ Tech Stack
+
+### 👨‍💻 Programming Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
 <br/>
-⚙️ Frameworks & Libraries
+
+### ⚙️ Frameworks & Libraries
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -41,21 +50,24 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 <br/>
-🌐 Web Development
+
+### 🌐 Web Development
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 <br/>
-🗄️ Databases
+
+### 🗄️ Databases
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 <br/>
-🛠️ Tools
+
+### 🛠️ Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -63,8 +75,9 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 <br/>
+
 ---
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IimalkaMadushan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
@@ -74,20 +87,23 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IimalkaMadushan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 <br/>
+
 ---
-📈 Contribution Graph
+## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IimalkaMadushan&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 <br/>
+
 ---
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/IimalkaMadushan/IimalkaMadushan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 <br/>
+
 ---
-🌐 Connect With Me
+## 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/imalkamadushan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
