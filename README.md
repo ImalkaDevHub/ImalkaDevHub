@@ -69,6 +69,7 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 </div>
 <br/>
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -90,6 +91,7 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 </div>
 <br/>
 ---
+
 ## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
