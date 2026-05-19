@@ -72,7 +72,7 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaDevHub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ImalkaDevHub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 <br/>
 <div align="center">
