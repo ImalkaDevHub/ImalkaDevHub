@@ -101,17 +101,14 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 ---
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/imalkamadushan">
+  <a href="https://www.linkedin.com/in/imalka-madushan-6954792a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:imalkam32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/IimalkaMadushan">
+  <a href="https://github.com/ImalkaDevHub">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.fiverr.com/yourprofile">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
 </div>
 <br/>
