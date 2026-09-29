@@ -21,11 +21,12 @@
 <br/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+%F0%9F%92%BB;Full+Stack+Developer+%26+Founder+of+Kaldor+%F0%9F%9A%80;Always+Learning+New+Technologies+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Apps+%F0%9F%92%BB;Building+AI+Powered+Systems+%F0%9F%A4%96;Full+Stack+Developer+%26+Founder+of+Kaldor+%F0%9F%9A%80;Always+Learning+New+Technologies+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 <br/>
 ---
+ 
 ## 🧑‍💼 Professional Summary
  
 I am a Third year Software Engineering student at **SLIIT** and a Full Stack Developer specializing in end-to-end web architecture and modern digital solutions, currently working at **Caslo Pvt Ltd** where I contribute to real-world software development projects.
@@ -37,41 +38,56 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 - **Full Stack Development**: Experienced in building web applications using React, Next.js, and Node.js.
 - **Mobile Development**: Skilled in cross-platform mobile app development using Flutter.
 - **Backend & Scripting**: Proficient in Python for backend development and automation.
+- **AI & Intelligent Automation**: Skilled in building AI systems, ML pipelines, and integrating scalable cloud-based automation solutions.
 - **Technical Leadership**: Guiding the end-to-end development lifecycle, from system architecture to the deployment of scalable digital solutions.
 ---
+ 
 ## ⚡ Tech Stack
  
 ### 👨‍💻 Programming Languages
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,php,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,dart,php,bash&theme=dark" />
 </div>
-<br/>
 ### ⚙️ Frameworks & Libraries
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,laravel,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,laravel,fastapi,flutter&theme=dark" />
 </div>
-<br/>
 ### 🌐 Web Development
  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
 </div>
-<br/>
 ### 🗄️ Databases
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark" />
 </div>
-<br/>
+### 🤖 AI & Machine Learning
+ 
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+</p>
+### ☁️ Cloud & DevOps
+ 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,linux&theme=dark" />
+</div>
 ### 🛠️ Tools
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,blender,git,docker,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,git,postman,vscode,jira,notion&theme=dark" />
 </div>
-<br/>
-<hr />
+---
+ 
 ## 📊 GitHub Analytics
  
 <div align="center">
@@ -82,21 +98,24 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://github-readme-stats.vercel.app/api?username=ImalkaDevHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaDevHub&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
-<br/>
-<hr/>
+---
  
 ## 📈 Contribution Graph
+ 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImalkaDevHub&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImalkaDevHub&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
-<br/>
-<hr />
+---
+ 
 ## 🐍 Contribution Snake
+ 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 ---
+ 
 ## 🌐 Connect With Me
+ 
 <div align="center">
   <a href="https://www.linkedin.com/in/imalka-madushan-6954792a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -117,13 +136,3 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
  
-
-
-
-
-
-
-
-
-
-
