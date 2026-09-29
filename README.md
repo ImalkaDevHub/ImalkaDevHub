@@ -4,7 +4,11 @@
 <br/>
 <!-- ===== TERMINAL PROFILE CARD ===== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero.svg" alt="Imalka Madushan - profile card" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-light.svg">
+  <img alt="Imalka Madushan - profile card" src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg" width="100%">
+</picture>
 </div>
 <br/>
 <div align="center">
