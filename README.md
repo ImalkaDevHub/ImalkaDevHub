@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Imalka%20Madushan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%"/>
 </div>
 <br/>
+<!-- ===== TERMINAL PROFILE CARD ===== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero.svg" alt="Imalka Madushan - profile card" width="100%"/>
+</div>
+<br/>
 <div align="center">
   <h1>Hi 👋 I'm Imalka Madushan</h1>
   <h3>🎓 Software Engineering Student &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 🤖 Data & AI Enthusiast</h3>
@@ -16,63 +21,55 @@
   </a>
 </div>
 <br/>
-
 ---
 ## 🧑‍💼 Professional Summary
-
+ 
 I am a Third year Software Engineering student at **SLIIT** and a Full Stack Developer specializing in end-to-end web architecture and modern digital solutions, currently working at **Caslo Pvt Ltd** where I contribute to real-world software development projects.
-
+ 
 Beyond my corporate role, I am the founder of **Kaldor**, a web development firm focused on high performance digital solutions. I also provide freelance development services on **Fiverr** to a diverse global client base. I am passionate about building modern, scalable applications and actively contribute to my university community through volunteering with campus clubs and societies.
-
+ 
 ## 🎯 Areas of Expertise
-
+ 
 - **Full Stack Development**: Experienced in building web applications using React, Next.js, and Node.js.
 - **Mobile Development**: Skilled in cross-platform mobile app development using Flutter.
 - **Backend & Scripting**: Proficient in Python for backend development and automation.
 - **Technical Leadership**: Guiding the end-to-end development lifecycle, from system architecture to the deployment of scalable digital solutions.
-
 ---
 ## ⚡ Tech Stack
-
+ 
 ### 👨‍💻 Programming Languages
-
+ 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,php,bash&theme=dark" />
 </div>
 <br/>
-
 ### ⚙️ Frameworks & Libraries
-
+ 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,laravel,fastapi&theme=dark" />
 </div>
 <br/>
-
 ### 🌐 Web Development
-
+ 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
 </div>
 <br/>
-
 ### 🗄️ Databases
-
+ 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" />
 </div>
 <br/>
-
 ### 🛠️ Tools
-
+ 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,blender,git,docker,postman,vscode&theme=dark" />
 </div>
 <br/>
-
 <hr />
-
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ImalkaDevHub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
@@ -82,22 +79,18 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaDevHub&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 <br/>
-
 <hr/>
-
-
+ 
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImalkaDevHub&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 <br/>
 <hr />
-
 ## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
-
 ---
 ## 🌐 Connect With Me
 <div align="center">
@@ -119,3 +112,4 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+ 
