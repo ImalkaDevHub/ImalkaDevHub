@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Imalka%20Madushan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%"/>
 </div>
 <br/>
-<!-- ===== TERMINAL PROFILE CARD ===== -->
+<!-- ===== TERMINAL PROFILE CARD (animated, theme-aware) ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-light.svg?v=2">
-  <img alt="Imalka Madushan - profile card" src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-light.svg?v=3">
+  <img alt="Imalka Madushan - profile card" src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg?v=3" width="100%">
 </picture>
 </div>
 <br/>
@@ -117,3 +117,13 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
  
+
+
+
+
+
+
+
+
+
+
