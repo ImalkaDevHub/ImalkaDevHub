@@ -110,11 +110,6 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/assets/card-stats-light.svg">
     <img alt="GitHub stats" src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/assets/card-stats-dark.svg" width="49%">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/assets/card-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/assets/card-langs-light.svg">
-    <img alt="Top languages" src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/assets/card-langs-dark.svg" width="49%">
-  </picture>
 </div>
 <hr/>
 <h2>🔤 Most Used Languages</h2>
@@ -164,4 +159,5 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+ 
  
