@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_note": "PLACEHOLDER VALUES - edit these to your own honest self-rating (0-100). 5-8 axes looks best.",
+  "axes": [
+    { "label": "Full Stack Web",  "value": 85 },
+    { "label": "Backend / APIs",  "value": 80 },
+    { "label": "Mobile (Flutter)","value": 70 },
+    { "label": "AI & ML",         "value": 65 },
+    { "label": "Databases",       "value": 75 },
+    { "label": "Cloud & DevOps",  "value": 65 },
+    { "label": "UI / Design",     "value": 70 }
+  ]
+}
