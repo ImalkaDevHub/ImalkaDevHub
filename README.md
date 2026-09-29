@@ -5,9 +5,9 @@
 <!-- ===== TERMINAL PROFILE CARD ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-light.svg">
-  <img alt="Imalka Madushan - profile card" src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-light.svg?v=2">
+  <img alt="Imalka Madushan - profile card" src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/hero-dark.svg?v=2" width="100%">
 </picture>
 </div>
 <br/>
