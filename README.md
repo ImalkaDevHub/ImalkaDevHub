@@ -117,6 +117,16 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   </picture>
 </div>
 <hr/>
+<h2>🔤 Most Used Languages</h2>
+ 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/assets/card-languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/assets/card-languages-light.svg">
+    <img alt="Most used languages" src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/assets/card-languages-dark.svg" width="100%">
+  </picture>
+</div>
+<hr/>
 <h2>📈 Contribution Graph</h2>
  
 <div align="center">
