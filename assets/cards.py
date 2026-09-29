@@ -8,7 +8,8 @@ Vercel instances are often rate-limited or down.
 
 Writes (dark + light of each):
     card-stats-*.svg     stars, commits, PRs, issues, repos, followers
-    card-langs-*.svg     top languages by bytes
+    card-langs-*.svg     top languages by bytes (compact)
+    card-languages-*.svg most used languages with sizes and percentages (wide)
     card-activity-*.svg  contributions per week over the last 12 months
 
 Uses GITHUB_TOKEN if set (the Actions token is enough for public data).
@@ -173,6 +174,46 @@ def langs_card(p, user, mode, limit=6):
     return shell(420, 96 + rows * 26 + 6, c, "Top Languages", "".join(body), f"Top languages for {user}")
 
 
+def size_text(n):
+    if n >= 1_000_000:
+        return f"{n / 1_000_000:.2f} MB"
+    if n >= 1_000:
+        return f"{n / 1_000:.0f} kB" if n >= 100_000 else f"{n / 1_000:.1f} kB"
+    return f"{n} B"
+
+
+def languages_card(p, user, mode, limit=8):
+    """Wide card: language count, stacked bar, and a two-column legend with size and percentage."""
+    c = THEME[mode]
+    ranked = sorted(p["langs"].items(), key=lambda kv: kv[1], reverse=True)[:limit]
+    total = sum(v for _, v in ranked) or 1
+    W, bar_x, bar_w, bar_y = 860, 24, 812, 62
+    x = bar_x
+    body = [f'<text x="{W - 24}" y="36" font-size="13" text-anchor="end" fill="{c["sub"]}">Most used languages</text>',
+            f'<clipPath id="lb"><rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="12" rx="6"/></clipPath>',
+            f'<rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="12" rx="6" fill="{c["track"]}"/>',
+            '<g clip-path="url(#lb)">']
+    colors = []
+    for i, (name, size) in enumerate(ranked):
+        col = LANG_COLORS.get(name, FALLBACK[i % len(FALLBACK)])
+        colors.append(col)
+        w = bar_w * size / total
+        body.append(f'<rect x="{x:.1f}" y="{bar_y}" width="{w + 0.5:.1f}" height="12" fill="{col}"/>')
+        x += w
+    body.append('</g>')
+    per_col = (len(ranked) + 1) // 2
+    for i, ((name, size), col) in enumerate(zip(ranked, colors)):
+        colx, row = 24 + (i // per_col) * 416, i % per_col
+        y = 108 + row * 28
+        body.append(f'<circle cx="{colx + 5}" cy="{y - 4}" r="5" fill="{col}"/>'
+                    f'<text x="{colx + 18}" y="{y}" font-size="14" fill="{c["text"]}">{esc(name)}</text>'
+                    f'<text x="{colx + 300}" y="{y}" font-size="12" text-anchor="end" fill="{c["sub"]}">{size_text(size)}</text>'
+                    f'<text x="{colx + 380}" y="{y}" font-size="13" font-weight="600" text-anchor="end" '
+                    f'fill="{c["title"]}">{100 * size / total:.2f}%</text>')
+    count = len(p["langs"])
+    return shell(W, 108 + per_col * 28 + 4, c, f"{count} Languages", "".join(body), f"Most used languages for {user}")
+
+
 def activity_card(total, days, user, mode):
     c = THEME[mode]
     days = days[-371:]
@@ -237,6 +278,7 @@ def main():
         write(out, "card-stats", lambda m: stats_card(p, a.user, m))
         if p["langs"]:
             write(out, "card-langs", lambda m: langs_card(p, a.user, m))
+            write(out, "card-languages", lambda m: languages_card(p, a.user, m))
     except Exception as e:  # keep going so one failure doesn't block the rest
         print("stats/langs failed:", e, file=sys.stderr)
         failed += 1
