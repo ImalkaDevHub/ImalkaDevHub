@@ -45,37 +45,42 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 <h3>👨‍💻 Programming Languages</h3>
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,dart,php,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,dart,go,r,php,bash&theme=dark" alt="Python, Java, C++, C, TypeScript, JavaScript, Dart, Go, R, PHP, Bash" />
 </div>
-<h3>⚙️ Frameworks & Libraries</h3>
+<h3>🎨 Frontend & App Development</h3>
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,laravel,fastapi,flutter&theme=dark" />
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/frontend-stack.svg?v=2" alt="React, Next.js, Astro, jQuery, React Native, Expo, Flutter, Electron, JavaFX" />
 </div>
 <h3>🌐 Web Development</h3>
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/web-stack.svg?v=2" alt="HTML, CSS, Tailwind, Bootstrap, Markdown, GSAP, WebGL" />
+</div>
+<h3>⚙️ Backend & Frameworks</h3>
+ 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/backend-stack.svg?v=2" alt="Node.js, Express, NestJS, FastAPI, Flask, Django, Laravel, Spring, Spring Boot, Bun" />
 </div>
 <h3>🗄️ Databases</h3>
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark" />
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/db-stack.svg?v=2" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis, SQL Server" />
 </div>
 <h3>🤖 AI & Machine Learning</h3>
  
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/ai-stack.svg?v=1" alt="PyTorch, Scikit-Learn, Pandas, NumPy, Hugging Face, LangChain" />
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/ai-stack.svg?v=2" alt="PyTorch, Scikit-Learn, TensorFlow, Pandas, NumPy, Hugging Face, LangChain" />
 </div>
-<h3>☁️ Cloud & DevOps</h3>
+<h3>☁️ Cloud, Hosting & DevOps</h3>
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,linux&theme=dark" />
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/cloud-stack.svg?v=2" alt="AWS, Google Cloud, Firebase, Vercel, Netlify, Cloudflare, GitHub Pages, Oracle, Docker, GitHub Actions, Linux" />
 </div>
-<h3>🛠️ Tools</h3>
+<h3>🛠️ Tools & Infrastructure</h3>
  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,blender,git,postman,vscode,notion&theme=dark" />
+  <img src="https://raw.githubusercontent.com/ImalkaDevHub/ImalkaDevHub/main/tools-stack.svg?v=2" alt="Figma, Blender, Git, Postman, VS Code, Notion, PowerShell, Apache Tomcat, Cisco" />
 </div>
 <hr/>
 <h2>📊 GitHub Analytics</h2>
