@@ -1,14 +1,15 @@
-name: Radar charts
+name: Radar charts and cards
 
 on:
   schedule:
-    - cron: "30 3 * * *"      # daily
-  workflow_dispatch:           # manual "Run workflow" button
+    - cron: "30 3 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
       - "assets/skills.json"
       - "scripts/radar.py"
+      - "scripts/cards.py"
       - ".github/workflows/radar.yml"
 
 permissions:
@@ -31,6 +32,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/radar.py --github "${{ github.repository_owner }}" --out assets/radar-langs --values
+
+      - name: Stats, languages and activity cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/cards.py --user "${{ github.repository_owner }}" --out assets
 
       - name: Commit changes
         run: |
